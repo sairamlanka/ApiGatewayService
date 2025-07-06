@@ -43,11 +43,11 @@
             <artifactId>spring-cloud-starter-gateway</artifactId>
         </dependency>
         
-        <dependency>
+        <!--dependency>
 		    <groupId>com.example</groupId>
 		    <artifactId>eureka-registry</artifactId>
 		    <version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency-->
 
         <!-- Eureka client (optional if using service discovery) -->
         <dependency>
